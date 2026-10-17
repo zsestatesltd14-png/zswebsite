@@ -1,0 +1,15 @@
+Z&S ESTATES — SEO-READY WEBSITE
+
+1. Back up your existing GitHub repository before replacing anything.
+2. Upload index.html, robots.txt and sitemap.xml to the repository root.
+3. Let Vercel deploy the new commit. Confirm the production domain is https://www.zandsestates.co.uk/ and that the non-www domain redirects appropriately.
+4. Test desktop and mobile navigation and all booking/contact links on the live domain.
+5. Confirm /robots.txt and /sitemap.xml both load publicly.
+6. In Google Search Console, add a Domain property for zandsestates.co.uk, verify via Namecheap DNS, submit https://www.zandsestates.co.uk/sitemap.xml, inspect homepage URL and request indexing.
+7. Add website link to Linktree and Instagram bio.
+8. After launch, polish HelloHosty booking page/widget and test full enquiry and booking journey.
+9. Check Search Console indexing reports over the next few weeks.
+
+NOTE: The website is a single HTML page with hash-based views (#stays, #about, etc.). Search engines primarily index the homepage URL, not each hash view as an independent page. Separate URLs/pages can be created later if search traffic for individual stays or services becomes a priority.
+
+NOTE: These files prepare the site for discovery but do not guarantee indexing or search ranking. No live deployment has been performed.
